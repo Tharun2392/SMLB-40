@@ -16,3 +16,5 @@ https://github.com/Tharun2392/SMLB-40/blob/main/(SML)Assignment_8.ipynb
 https://github.com/Tharun2392/SMLB-40/blob/main/(SML)Assignment_9.ipynb
 
 https://github.com/Tharun2392/SMLB-40/blob/main/Assignment(SML)_10.ipynb
+
+https://github.com/Tharun2392/SMLB-40/blob/main/(SML)Assignment_12.ipynb
